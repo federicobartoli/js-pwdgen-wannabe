@@ -11,4 +11,5 @@
 
 #passwordgenerator {
     margin: auto;
+    text-transform: lowercase;
 }
